@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.911b4b2e.css",
+    "main.js": "/static/js/main.cc8738c5.js",
+    "static/js/787.0c3f432a.chunk.js": "/static/js/787.0c3f432a.chunk.js",
+    "static/media/pizza.jpg": "/static/media/pizza.02b1f4d7383cf3b482b6.jpg",
+    "static/media/resort.jpg": "/static/media/resort.7bf60d5b3f7683c1f37c.jpg",
+    "static/media/hotel.jpg": "/static/media/hotel.cfd0ee29f35c1e18eb9b.jpg",
+    "static/media/hotel-1.jpg": "/static/media/hotel-1.e35dd8631137b6915b64.jpg",
+    "static/media/resort-1.jpg": "/static/media/resort-1.ed1538360bb527a319c0.jpg",
+    "static/media/hotel-3.jpg": "/static/media/hotel-3.510dda29c3c7ccb10773.jpg",
+    "static/media/hotel-2.jpg": "/static/media/hotel-2.ec9d82d384a9d589e4c7.jpg",
+    "static/media/hotel-4.jpg": "/static/media/hotel-4.c043c00ad45316008b0e.jpg",
+    "index.html": "/index.html",
+    "main.911b4b2e.css.map": "/static/css/main.911b4b2e.css.map",
+    "main.cc8738c5.js.map": "/static/js/main.cc8738c5.js.map",
+    "787.0c3f432a.chunk.js.map": "/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.911b4b2e.css",
+    "static/js/main.cc8738c5.js"
+  ]
+}
